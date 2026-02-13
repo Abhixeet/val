@@ -96,7 +96,7 @@ const Footer = () => {
       <span role="img" aria-label="heart">
         ❤️
       </span>
-      by Abhixeet
+      by Abhijeet
     </a>
   );
 };
